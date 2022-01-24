@@ -1,4 +1,4 @@
-# Deployment on Netify
+# Deployment on Netlify
 https://keeper-app-react-js-by-avnish.netlify.app/
 
 # Getting Started with Create React App
